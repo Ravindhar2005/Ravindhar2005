@@ -1,4 +1,4 @@
-##RAVINDHAR
+RAVINDHAR
 
 This is Ravindhar a third year Mechanical Engineering Student. Passionate about Full stack Development
 <!--

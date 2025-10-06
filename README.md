@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Ravindhar2005/Ravindhar2005/blob/main/banner.png?raw=true" alt="Ravindhar R" width="854" height="200"/>
-</p>
+
+<img width="854" height="200" alt="image" src="https://github.com/user-attachments/assets/7076b005-75f7-46ba-9ce6-baeb58721e08" />
 
 
 

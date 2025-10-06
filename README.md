@@ -1,7 +1,4 @@
-
-<img width="854" height="200" alt="image" src="https://github.com/user-attachments/assets/7076b005-75f7-46ba-9ce6-baeb58721e08" />
-
-
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/c2ee66f2-4515-4ca5-bc01-96d8ea0f945f" />
 
 <center><h2>RAVINDHAR</h2>
 

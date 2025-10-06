@@ -1,11 +1,18 @@
-<h2>RAVINDHAR</h2>
+<center><h2>RAVINDHAR</h2>
 
 This is Ravindhar a third year Mechanical Engineering Student. Passionate about Full stack Development
 
-**Programming Languages**
-* `Python`
-* `Java`
-* `SQL`
+<h3>Programming Languages</h3>
+ Python |  Java
+<br>
+<h3>Web Development</h3>
+HTML | CSS | MySQL
+<br> 
+<h3>Tools & Platforms</h3>
+VS Code | Replit | Cursor | GitHub
+</center>
+
+
 <!--
 **Ravindhar2005/Ravindhar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

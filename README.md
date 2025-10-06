@@ -1,5 +1,6 @@
-##                           RAVINDHAR
+##RAVINDHAR
 
+##This is Ravindhar a third year Mechanical Engineering Student. Passionate about Full stack Development
 <!--
 **Ravindhar2005/Ravindhar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

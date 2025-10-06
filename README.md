@@ -5,7 +5,8 @@
 This is Ravindhar a third year Mechanical Engineering Student. Passionate about Full stack Development
 
 <h3>Programming Languages</h3>
- Python |  Java
+ <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/b5c7066e-3fdd-4f33-a2f9-4b255e6000ca" />
+|  Java
 <br>
 <h3>Web Development</h3>
 HTML | CSS | MySQL

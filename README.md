@@ -1,4 +1,17 @@
-<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/c2ee66f2-4515-4ca5-bc01-96d8ea0f945f" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/half-s/half-s/main/img/readme_header.gif" alt="Animated Wavy Header" width="100%"/>
+</div>
+
+<h1 align="center" style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; margin-top: -30px; margin-bottom: 20px;">
+  👋 Hello! I'm <span style="color: #FF9800;">Ravindhar R</span>
+</h1>
+
+<div align="center">
+  <p style="font-size: 1.1em; color: #607D8B; margin-bottom: 30px;">
+    A passionate Software Developer and Technology Enthusiast.
+  </p>
+  <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #607D8B, rgba(0, 0, 0, 0));">
+</div>
 
 <center><h2>RAVINDHAR</h2>
 

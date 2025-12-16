@@ -13,6 +13,19 @@
   <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #607D8B, rgba(0, 0, 0, 0));">
 </div>
 
+
+<div align="center">
+  <img src="YOUR_HOSTED_GREEN_ANIMATED_BANNER_URL_HERE" 
+       alt="Animated Green Banner: Hello! I'm Ravindhar R" 
+       width="100%"/>
+</div>
+
+---
+
+<h3 align="center">
+  A passionate Software Developer and Technology Enthusiast.
+</h3>
+
 <center><h2>RAVINDHAR</h2>
 
 This is Ravindhar a third year Mechanical Engineering Student. Passionate about Full stack Development

@@ -1,4 +1,5 @@
-<img src="https://leviarista.github.io/github-profile-header-generator/">
+![Banner](ravibanner.png)
+
 
 <h1 align="center" style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; margin-top: -30px; margin-bottom: 20px;">
   👋 Hello! I'm <span style="color: #FF9800;">Ravindhar R</span>

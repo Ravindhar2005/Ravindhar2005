@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/half-s/half-s/main/img/readme_header.gif" alt="Animated Wavy Header" width="100%"/>
-</div>
+<img src="https://leviarista.github.io/github-profile-header-generator/">
 
 <h1 align="center" style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; margin-top: -30px; margin-bottom: 20px;">
   👋 Hello! I'm <span style="color: #FF9800;">Ravindhar R</span>

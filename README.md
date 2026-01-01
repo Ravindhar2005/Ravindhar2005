@@ -1,4 +1,4 @@
-![Animated Green Banner](./ravibanner.png)
+<img src="ravibanner.png" width="100%" />
 
 
 

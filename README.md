@@ -1,9 +1,4 @@
-![Banner](ravibanner.png)
-
-
-<h1 align="center" style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; margin-top: -30px; margin-bottom: 20px;">
-  👋 Hello! I'm <span style="color: #FF9800;">Ravindhar R</span>
-</h1>
+![Header](./github-header-banner(1).png)
 
 <div align="center">
   <p style="font-size: 1.1em; color: #607D8B; margin-bottom: 30px;">

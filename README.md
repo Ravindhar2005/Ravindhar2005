@@ -1,4 +1,4 @@
-<img src="ravibanner.png" width="100%" />
+<img src="ravibanner.png" width="1220px" />
 
 
 <h3 align="center">
